@@ -1,0 +1,20 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.csproj.user
+appsettings.Development.json
+
+# Node / React
+node_modules/
+library-frontend/build/
+library-frontend/.env
+library-frontend/.env.local
+library-frontend/.env.production
+
+# General
+.DS_Store
+Thumbs.db
+*.log
